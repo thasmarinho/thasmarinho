@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-Hi, I'm Thais Marinho, a graduated in computer engineering, passionate about scalable development and value delivering. I'm currently working as a back-end and freelancer developer.
+I'm Thais Marinho, a computer engineer, passionate about scalable development and value delivering. I'm currently working as a back-end and freelancer developer.
 
 - 💻 I’m currently learning Kotlin.
 - 📚 I like to re-read "Clean Code" from times to times, to improve my skills as a developer.
